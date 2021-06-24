@@ -9,7 +9,7 @@ function spin(){
 	console.log(myOtherBox.object3D.rotation);
 }
 
-setInterval(spin, 30);
+setInterval(spin, 16);
 
 
 myOtherBox.addEventListener('mouseenter', function(){
