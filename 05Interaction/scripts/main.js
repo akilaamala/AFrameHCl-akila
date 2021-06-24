@@ -13,7 +13,7 @@ setInterval(spin, 16);
 
 
 myOtherBox.addEventListener('mouseenter', function(){
-rotationSpeed = 0.10;
+rotationSpeed = 0.30;
 console.log('mouse enter');
 
 myOtherBox.addEventListener('mouseleave', function(){
